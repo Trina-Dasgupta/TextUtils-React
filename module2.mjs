@@ -1,5 +1,5 @@
-const a = "Harry";
-const b = "Rohan";
+const a = "Trina";
+const b = "Ria";
 const c = "Aakash";
 const d = "Priyanka";
 
